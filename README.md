@@ -63,7 +63,7 @@ A implementação foi realizada utilizando **Assembly MIPS** no **simulador MARS
 
 ## **4. Breve Explicação e Demonstração**
 Para uma entender mais sobre a implementação e funcionamento da **calculadora**, assista ao vídeo explicativo no link abaixo:  
- **🔗 Acesse o vídeo: [Vídeo de Explicação](www.youtube.com)**
+ **🔗 Acesse o vídeo: [Vídeo de Explicação](https://drive.google.com/file/d/1Foko7X89L37c6gcE5Qv8z9xTkeiEhvTy/view?usp=drivesdk)**
 
 ---
 
