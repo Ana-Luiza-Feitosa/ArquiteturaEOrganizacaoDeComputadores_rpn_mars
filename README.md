@@ -1,8 +1,6 @@
 
 
-# **TOPO DA PILHA**
-
----
+<h1 align="center"><strong>TOPO DA PILHA</strong></h1>
 
 ## **Utilização de Estruturas de Dados do Tipo Pilha para a Implementação de uma Calculadora de Notação Polonesa Reversa no Simulador MARS**
 
